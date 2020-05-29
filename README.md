@@ -1,2 +1,2 @@
-# SocketProgramming Basics
-client and server interact and exchange the data
+# Socket Programming Basics
+Client and server interact and exchange the data.
